@@ -30,7 +30,8 @@ h1{
     background-color: rgb(73, 102, 233);
 }
 #box2 {
-    background-color: rgb(0, 255, 136);
+    background-image: url(https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-0/p480x480/84589780_2539484256161155_3148231703940562944_o.jpg?_nc_cat=102&_nc_sid=730e14&_nc_ohc=6OL2SYQ70YgAX__IFGc&_nc_ht=scontent-ort2-2.xx&tp=6&oh=e0f28268b3052cc248bd8a0f0a12180f&oe=5FA16360);
+    background-size: cover;
 }
 #box3 {
     background-color: rgb(255, 0, 255);
@@ -48,7 +49,8 @@ h1{
     background-color: rgb(140, 0, 255);
 }
 #box8 {
-    background-color: rgb(26, 3, 131);
+    background-image: url(https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-0/p480x480/84098384_2539484289494485_5824420594807996416_o.jpg?_nc_cat=110&_nc_sid=730e14&_nc_ohc=hoi0X9a6EwIAX8EFvbO&_nc_ht=scontent-ort2-2.xx&tp=6&oh=047b00c52acaf478c4b7273b3a84cf85&oe=5FA0CBBA);
+    background-size: cover;
 }
 #box9 {
     background-color: rgb(218, 157, 96);
@@ -63,7 +65,8 @@ h1{
     background-color: rgb(241, 214, 156);
 }
 #box13 {
-    background-color: rgb(75, 187, 135);
+    background-image: url(https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-0/p480x480/83882267_2539484329494481_6116955421543497728_o.jpg?_nc_cat=109&_nc_sid=730e14&_nc_ohc=6eEr339syxYAX-yRHhs&_nc_ht=scontent-ort2-2.xx&tp=6&oh=ea0de1ee041502a60d7b4edbffbd3cfc&oe=5FA0A52D);
+    background-size: cover;
 }
 #box14 {
     background-color: rgb(0, 255, 213);
@@ -72,19 +75,20 @@ h1{
     background-color: rgb(137, 177, 230) ;
 }
 #box16 {
-    background-color:cadetblue;
+    background-color:palevioletred;
 
 }
 #box17 {
-    background-color: palevioletred
+    background-color: cadetblue
 
 }
 #box18 {
-    background-color: rebeccapurple;
+    background-color: rgb(238, 172, 170);
 
 }
 #box19 {
-    background-color: rgb(238, 172, 170);
+    background-image:url(https://scontent-ort2-2.xx.fbcdn.net/v/t1.0-0/p480x480/83517079_2539484389494475_5932090983922532352_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=FhBEacdfCCAAX-FCRXe&_nc_ht=scontent-ort2-2.xx&tp=6&oh=648905754056bd0d01f0ff7a62f68056&oe=5FA33439);
+    background-size: cover;
 
 }
 #box20 {
