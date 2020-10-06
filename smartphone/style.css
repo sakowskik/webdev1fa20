@@ -1,3 +1,24 @@
 h1{ 
     color: peachpuff;
 }
+.container{
+    border: 3px solid plum;
+    margin: 20px;
+    height: 600px;
+    width:400px;
+    border-radius:20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-evenly;
+    
+}
+.box {
+    width: 70px;
+    height: 80px;
+    border: 2px solid powderblue;
+    margin: 12px;
+    border-radius: 10px;
+
+
+}
