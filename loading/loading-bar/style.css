@@ -14,21 +14,25 @@ h1{
     background-color:rgb(161, 23, 108);
     position: relative;
     animation-name: loading;
-    animation-fill-mode: forwards;
+    animation-fill-mode:forwards;
     animation-duration: 6s;
     animation-direction:normal;
-    animation-timing-function: ease;
-    animation-play-state: running;
-    animation-iteration-count: infinite;
+    animation-timing-function:ease;
+    animation-play-state:running;
+    animation-iteration-count:infinite;
 }
 @keyframes loading {
     0% {background color:rgb(161, 23, 108);
-    width:125px;}
-    25% {background-color: rgb(216, 51, 153);
-    width:250px;}
-    50% {background-color: rgb(149, 23, 161);
-    width:375px;}
-    100% {background-color: rgb(135, 28, 100);
-    width:500px;}
+    width:125px;
+}
+    25% {background-color:rgb(216, 51, 153);
+    width:250px;
+}
+    50% {background-color:rgb(149, 23, 161);
+    width:375px;
+}
+    100% {background-color: lightblue;
+    width:500px;
+}
 }
 
