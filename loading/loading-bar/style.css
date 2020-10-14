@@ -1,3 +1,31 @@
 h1{
     color:rgb(138, 138, 230);
 }
+.container {
+    width: 500px;
+    height: 100px;
+    border: 4px solid lightseagreen;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+
+}
+.box{ 
+    width: fit-content;
+    height: 100px;
+    background-color:rgb(161, 23, 108);
+    animation-name: loading;
+    animation-fill-mode: forwards;
+    animation-duration: 5s;
+    animation-direction: normal;
+    animation-timing-function: ease-in-out;
+    animation-play-state: running;
+    animation-iteration-count: infinite;
+}
+@keyframes loading {
+    0% {background color:rgb(161, 23, 108);}
+    25% {background-color: rgb(216, 51, 153);}
+    50% {background-color: rgb(149, 23, 161);}
+    100% {background-color: rgb(135, 28, 100)}
+}
+
