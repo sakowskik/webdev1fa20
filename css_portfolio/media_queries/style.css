@@ -1,0 +1,17 @@
+h1{
+    color:blueviolet;
+}
+p{
+    color:white;
+}
+
+@media only screen and (max-width:500px){
+    h1{
+        color:seagreen;
+    }
+    p{
+        color:seagreen;
+    }
+    body{
+        background-color:lightgrey;
+}
