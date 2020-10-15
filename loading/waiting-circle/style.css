@@ -2,22 +2,22 @@ h1{
     color: lightseagreen;
 }
 .wrapper{
-    width: 100px;
-    height:100px;
+    width: 120px;
+    height:120px;
     border-radius: 50%;
     border: 8px solid lightblue;
-    justify-content: baseline;
+    margin: auto;
 }
 .circle{
     width: 80px;
     height: 80px;
-    border:10px solid;
+    border:20px solid;
     border-radius: 50%;
-    border-color: lightcoral lightslategrey lightpink lightgreen;
+    border-color: lightseagreen transparent transparent;
     animation: circle 2s linear infinite;
 }
 @keyframes circle {
     100%{transform: rotate(360deg);
-    opacity:0.9;}
+    filter: hue-rotate(360deg);
     }
 }
