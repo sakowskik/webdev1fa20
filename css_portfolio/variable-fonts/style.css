@@ -1,6 +1,26 @@
 h1{
     color: lightblue;
 }
-img{
-    max-width:100px;
+.font1{
+    font-size:20px;
+    font-family: 'Grenze Gotisch', cursive;
+    font-weight: 600;
 }
+.font2{
+    font-size:30px;
+    font-family: 'Dancing Script', cursive;
+    font-weight: 300;
+}
+.font3{
+    font-size:25px;
+    font-family: 'Grandstander', cursive;
+    font-weight: 900;
+    
+    
+}
+.font4{
+    font-size:50px;
+    font-family: 'MuseoModerno', cursive;
+    font-weight: 700;
+}
+    
