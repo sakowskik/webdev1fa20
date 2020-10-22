@@ -1,3 +1,8 @@
 h1{
     color:green;
+    font-size:clamp(2vh,10vh,20vh)
+}
+p{
+    width:clamp(30vw,75vw,85vw)
+
 }
