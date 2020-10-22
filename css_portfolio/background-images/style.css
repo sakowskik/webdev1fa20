@@ -5,30 +5,38 @@ h1{
     background-image: url('backgroundimagecss.jpg');
     width:600px;
     height:500px;
+    color:yellow;
+    font-size:20px;
 }
 .cover{
     background-image: url('backgroundimagecss.jpg');
     width:600px;
     height:500px;
     background-size: cover;
-
-    
+    color:yellow;
+    font-size:20px;
 }
 .contain{
     background-image: url('backgroundimagecss.jpg');
     width:600px;
     height:500px;
     background-size:contain;
+    color:yellow;
+    font-size:20px;
 }
 .no-repeat{
     background-image: url('backgroundimagecss.jpg');
     width:600px;
     height:500px;
     background-repeat: no-repeat;
+    color:yellow;
+    font-size:20px;
 }
 .position{
     background-image: url('backgroundimagecss.jpg');
     width:600px;
     height:500px;
     background-position: center;
+    color:yellow;
+    font-size:20px;
 }
