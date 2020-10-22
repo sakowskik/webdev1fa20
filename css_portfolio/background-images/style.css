@@ -1,7 +1,11 @@
 h1{
-    color:green;
+    color:orangered;
 }
 body{
-    background-size: 500px;
+    background-image: url('backgroundimagecss.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
     
 }
