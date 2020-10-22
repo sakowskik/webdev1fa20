@@ -1,64 +1,19 @@
 h1{
     color:green;
 }
-a{
-    color:green
+a:link{
+    color:springgreen;
 }
-
+a:visited{
+    color: firebrick;
+}
+a:hover{
+    color:rgb(15, 225, 240);
+}
 a:active{
     color:teal;
 }
-a:hover{
-    color:hotpink;
-   
-}
-a:visited{
-    color:sienna;
-}
 a:focus{
     background-color:lightgray;
-    color:slateblue;
-}
-.link{
-    color:blue;
-}
-.hover{
-    background-color:lightblue;
-    color:black;
-    padding:20px;
-    text-align:center;
-}
-.hover:hover{
-    background-color:rgb(2, 2, 75)
-}
-
-.active{
-    background-color:lightcyan;
-    color:black;
-    padding:20px;
-    text-align:center;
-}
-.active:active{
-    background-color:cyan;
-
-}
-
-.visited{
-    color:red;
-    padding:20px;
-    text-align: center;
-
-}
-.visited:visited{
     color:hotpink;
-}
-
-.focus{
-    background-color: lightseagreen;
-    color:black;
-    padding:20px;
-    text-align: center;
-}
-.focus:focus{
-    background-color: seagreen;
 }
