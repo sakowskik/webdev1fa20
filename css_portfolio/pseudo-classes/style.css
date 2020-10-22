@@ -1,6 +1,27 @@
 h1{
     color:green;
 }
+a{
+    color:green
+}
+
+a:active{
+    color:teal;
+}
+a:hover{
+    color:purple;
+   
+}
+a:visited{
+    color:sienna;
+}
+a:focus{
+    background-color:lightgray;
+    color:slateblue;
+}
+.link{
+    color:blue;
+}
 .hover{
     background-color:lightblue;
     color:black;
