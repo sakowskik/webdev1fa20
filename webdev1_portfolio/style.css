@@ -1,7 +1,7 @@
 .wrapper{
     width:100vw;
     height:100vh;
-    background-image: url(background.jpg);
+    background-image: url(../webdev1_portfolio/background.jpg);
     background-size: cover;
     display:flex;
     font-family: 'Oswald', sans-serif;
