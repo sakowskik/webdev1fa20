@@ -8,4 +8,9 @@ html {
   #box{
         color: lightblue;
         border: 1px solid lightblue;
+        visibility:hidden;
+        
+  }
+  #box.active{
+      visibility: visible;
   }

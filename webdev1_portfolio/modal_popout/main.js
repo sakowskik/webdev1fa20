@@ -1,9 +1,9 @@
 
 
-   $("#show").click(function(){
-    $("#box").show();
+   $("#open").click(function(){
+    $("#box").addClass("active");
   })
   
   $("#hide").click(function(){
-    $("#box").hide();
+    $("#box").removeClass("active");
   })
