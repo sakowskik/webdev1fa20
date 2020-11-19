@@ -1,9 +1,7 @@
-
-
-   $("#open").click(function(){
-    $("#box").show;
+$("#open").click(function(){
+    $("#box").show();
   })
   
-  $("#hide").click(function(){
-    $("#box").hide;
+$("#close").click(function(){
+    $("#box").hide();
   })
