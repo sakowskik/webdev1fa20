@@ -8,12 +8,10 @@ html {
   #box{
         color: lightblue;
         border: 1px solid lightblue;
-        height:10px;
-        width:50px;
-        display: none;
+       display:none;
         
         
+
+         
   }
-  #box.click{
-      visibility: visible;
-  }
+  
