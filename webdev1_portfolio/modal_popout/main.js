@@ -1,4 +1,6 @@
 
 
-  $('#box').click(function(){
-    $('#box-show').show();
+  $("#box").click(function(){
+    $(".show").show();
+    $(".hide").hide();
+   })
