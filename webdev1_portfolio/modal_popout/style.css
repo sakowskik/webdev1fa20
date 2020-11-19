@@ -8,9 +8,12 @@ html {
   #box{
         color: lightblue;
         border: 1px solid lightblue;
-        visibility:hidden;
+        height:10px;
+        width:50px;
+        display: none;
+        
         
   }
-  #box.active{
+  #box.click{
       visibility: visible;
   }
