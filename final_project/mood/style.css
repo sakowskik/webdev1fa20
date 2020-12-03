@@ -5,6 +5,13 @@ body{
 h1{
     color: lightblue;
 }
+body{
+    flex-wrap:wrap;
+    flex-direction:row;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
 .container{
     height:400px;
     width:600px;
@@ -19,5 +26,7 @@ h1{
     width:120px;
     height:120px;
     border: 5px solid lightblue;
+    flex-wrap: wrap;
+    align-content: center;
 
 }
