@@ -30,6 +30,7 @@ body{
 .box{
     width:120px;
     height:120px;
+    font-size:18px;
     border: 5px solid rgb(158, 200, 214);
     display: flex;
     justify-content: center;
@@ -72,7 +73,7 @@ a{
     justify-content: center;
     align-items: center;
 }
-img{
-    height:100px;
-    width:100px;
+#sad-img{
+    height:300px;
+    width:300px;
 }
