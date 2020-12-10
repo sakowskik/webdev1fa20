@@ -4,9 +4,16 @@ body{
 
 h1{
     color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 body{
     font-family: 'Oswald', sans-serif;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
 
 }
 
@@ -23,7 +30,45 @@ body{
 .box{
     width:120px;
     height:120px;
-    border: 5px solid lightblue;
+    border: 5px solid rgb(158, 200, 214);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#box1{
+    background:rgb(58, 58, 196);
+}
+#box2{
+    background: rgb(221, 67, 67);
+}
+#box3{
+    background: seagreen;
+}
+#box4{
+    background:rgb(79, 158, 182)
+}
+#box5{
+    background: rgb(145, 63, 145)
+}
+#box6{
+    background:rgb(38, 207, 185);
+}
+#box7{
+    background:rgb(243, 243, 78)
+}
+#box8{
+    background:rgb(220, 132, 223);
 }
 
-
+h2{
+    color: rgb(25, 161, 206);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color: rgb(25, 161, 206);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
