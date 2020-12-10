@@ -1,12 +1,26 @@
-let sadImages = ["../images/sad1.jpg", "../images/sad2.jpg","../images/sad3.jpg","../images/sad4.jpg","../images/sad5.jpg"];
+let sadImages = ["../images/sad1.jpg", "../images/sad2.jpg", "../images/sad3.jpg", "../images/sad4.jpg", "../images/sad5.jpg"];
 
 console.log(sadImages[1])
 
-$('#box1').click(function(){
+$("#box1").click(function(){
   let randomIndex = Math.floor(Math.random()*5);
   let imageSrc = sadImages[randomIndex];
-  $('#sad-img').attr("src", imageSrc)
+  $('#sad-img').attr("src", imageSrc);
 })
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
