@@ -76,5 +76,81 @@ a{
 #sad-img{
     height:300px;
     width:300px;
-    margin:auto;
+    border: 4px solid light gray;
+    position: absolute; 
+    left:50%;
+    right:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
 
+}
+#angry-img{
+    height:300px;
+    width:300px;
+    border: 4px solid light gray;
+    position: absolute; 
+    left:50%;
+    right:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+#stressed-img{
+    height:300px;
+    width:300px;
+    border: 4px solid light gray;
+    position: absolute; 
+    left:50%;
+    right:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+#exhausted-img{
+    height:300px;
+    width:300px;
+    border: 4px solid light gray;
+    position: absolute; 
+    left:50%;
+    right:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+#disappointed-img{
+    height:300px;
+    width:300px;
+    border: 4px solid light gray;
+    position: absolute; 
+    left:50%;
+    right:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+#anxious-img{
+    height:300px;
+    width:300px;
+    border: 4px solid light gray;
+    position: absolute; 
+    left:50%;
+    right:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+#joy-img{
+    height:300px;
+    width:300px;
+    border: 4px solid light gray;
+    position: absolute; 
+    left:50%;
+    right:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
+#bored-img{
+    height:300px;
+    width:300px;
+    border: 4px solid light gray;
+    position: absolute; 
+    left:50%;
+    right:50%;
+    top:50%;
+    transform: translate(-50%, -50%);
+}
