@@ -2,10 +2,10 @@ let sadImages = ["../images/sad1.jpg", "../images/sad2.jpg", "../images/sad3.jpg
 
 console.log(sadImages[1])
 
-$("#box1").click(function(){
+$('#box1').click(function(){
   let randomIndex = Math.floor(Math.random()*5);
   let imageSrc = sadImages[randomIndex];
-  $("#sad-img").attr("src", imageSrc);
+  $('#sad-img').attr("src", imageSrc);
 })
 
 
@@ -13,7 +13,7 @@ let angryImages = ["../images/angry1.jpg", "../images/angry2.jpg","../images/ang
 
 console.log(angryImages[1])
 
-$("#box2").click(function(){
+$('#box2').click(function(){
   let randomIndex = Math.floor(Math.random()*5);
   let imageSrc = angryImages[randomIndex];
   $('#angry-img').attr("src", imageSrc)
@@ -36,7 +36,7 @@ let exhaustedImages = ["../images/exhausted1.jpg", "../images/exhausted2.jpg",".
 console.log(exhaustedImages[1])
 
 $('#box4').click(function(){
-  let randomIndex = Math.floor(Math.random()*5);
+  let randomIndex = Math.floor(Math.random()*6);
   let imageSrc = exhaustedImages[randomIndex];
   $('#exhausted-img').attr("src", imageSrc)
 })
