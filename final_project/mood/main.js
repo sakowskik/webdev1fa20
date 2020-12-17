@@ -34,7 +34,7 @@ $('#display-img').attr("src", imageSrc).css("display", "block")
 }) 
 
 
-let exhaustedImages = ["../images/exhausted1.jpg", "../images/exhausted2.jpg","../images/exhausted3.jpg","../images/exhausted4.jpg","../images/exhausted5.jpg","..images/images/exhausted6.jpg"];
+let exhaustedImages = ["../images/exhausted1.jpg", "../images/exhausted2.jpg","../images/exhausted3.jpg","../images/exhausted4.jpg","../images/exhausted5.jpg","../images/exhausted6.jpg"];
 
 console.log(exhaustedImages[1]) 
 
