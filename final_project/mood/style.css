@@ -90,4 +90,7 @@ a{
 .box:hover { 
     cursor: pointer; 
     } 
+#close{
+    display:none;
+}    
 

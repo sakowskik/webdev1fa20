@@ -91,4 +91,10 @@ let imageSrc = boredImages[randomIndex];
 $('#display-img').attr("src", imageSrc).css("display", "block") 
 }) 
 
+$(".box").click(function(){
+    $("#close").show();
+  })
 
+$("#close").click(function(){
+    $("#display-img").hide();
+  })
