@@ -72,6 +72,15 @@ a{
     color: rgb(25, 161, 206);
     display: flex;
     font-size: 30px;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+
+}
+h2{
+    color: rgb(25, 161, 206);
+    display: flex;
+    font-size: 20px;
     justify-content: center;
     align-items: center;
 }
