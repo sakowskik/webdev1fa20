@@ -1,5 +1,6 @@
 body{
     background-image: url(../images/background.jpg);
+    background-size: cover;
 }
 
 h1{
@@ -26,6 +27,7 @@ body{
     justify-content: space-evenly;
     align-items: center;
 }
+
 
 .box{
     width:140px;
@@ -67,7 +69,8 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding:1%;
+    padding:5px;
+    
 }
 a{
     color: rgb(25, 161, 206);
@@ -86,8 +89,8 @@ h2{
     align-items: center;
 }
 #display-img { 
-    height:500px; 
-    width:500px; 
+    height:40vw; 
+    width:40vw; 
     border: 4px solid light gray; 
     position: absolute; 
     left:50%; 
@@ -102,7 +105,7 @@ h2{
     } 
 #close{
     display:none;
-    padding-top:8%;
+    padding:6%;
 
 }    
 

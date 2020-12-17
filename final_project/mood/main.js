@@ -58,12 +58,12 @@ $('#display-img').attr("src", imageSrc).css("display", "block")
 
 
 
-let anxiousImages = ["../images/anxious1.jpg", "../images/anxious2.jpg","../images/anxious3.jpg","../images/anxious4.jpg","../images/anxious5.jpg","../images/anxious6.jpg"];
+let anxiousImages = ["../images/anxious1.jpg", "../images/anxious2.jpg","../images/anxious4.jpg","../images/anxious5.jpg","../images/anxious6.jpg"];
 
 console.log(anxiousImages[1]) 
 
 $('#box6').click(function(){ 
-let randomIndex = Math.floor(Math.random()*6); 
+let randomIndex = Math.floor(Math.random()*5); 
 let imageSrc = anxiousImages[randomIndex]; 
 $('#display-img').attr("src", imageSrc).css("display", "block") 
 }) 
