@@ -66,10 +66,8 @@ body{
 p{
     color: rgb(25, 161, 206);
     font-size: 30px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    padding:5px;
+    text-align: center;
+    
     
 }
 a{
@@ -83,6 +81,7 @@ a{
 }
 h2{
     color: rgb(119, 9, 192);
+    text-align: center;
     display: flex;
     font-size: 20px;
     justify-content: center;
